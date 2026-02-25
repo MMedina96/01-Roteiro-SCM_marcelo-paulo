@@ -2,9 +2,10 @@
    Landing Page - Scripts
    ======================================== */
 
-// Aguarda o carregamento completo do DOM
+
+// Mensagem de boas-vindas no console
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Landing Page carregada com sucesso!');
+    console.log('DevLab - Landing Page Carregada Com Sucesso!');
 });
 
 // TODO: Adicionar interatividade à página
