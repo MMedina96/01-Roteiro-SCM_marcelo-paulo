@@ -5,7 +5,7 @@
 
 // Mensagem de boas-vindas no console
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('DevLab - Landing Page Carregada Com Sucesso!');
+    console.log('DevLab - Pagina Carregada Com Sucesso!');
 });
 
 // TODO: Adicionar interatividade à página
